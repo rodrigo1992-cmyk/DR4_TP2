@@ -1,0 +1,5 @@
+roteiro:
+  atenas: 
+    prompt: "Informe 3 pontos turísticos de Atenas. A resposta deve ser dada em um formato similar a JSON, com os campos [cidade] [ponto_turistico] [numero_anual_de_visitantes] e [breve_descricao]. O número anual de visitantes deve ter formato de número inteiro, sem separador de milhar e sem decimais."
+  roma: 
+    prompt: "Informe 3 pontos turísticos de Roma. A resposta deve ser dada em um formato similar a JSON, com os campos [cidade] [ponto_turistico] [numero_anual_de_visitantes] e [breve_descricao]. O número anual de visitantes deve ter formato de número inteiro, sem separador de milhar e sem decimais."
